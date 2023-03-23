@@ -1,0 +1,31 @@
+body{
+    background-color: #F5F2F2;
+}
+.navbar img{
+    width: 40px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background-color: #ffffff;
+}
+.player img{
+width: 56px;
+}
+.px-2 {
+    padding-left: ($spacer * .5) !important;
+}
+section{
+    margin-top: 20px;
+}
+.top-blog{
+    background-color: #ffffff;
+}
+.player1 img{
+    width: 177px;
+}
+.card img{
+    width: 224px;
+}
+
